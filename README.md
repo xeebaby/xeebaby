@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="[https://w0.peakpx.com/wallpaper/711/844/HD-wallpaper-technology-brain-binary-black-blue.jpg"] width="60%" alt="Building Tech for Africa">
+  <img src="./assets/tech-banner.jpg" width="40%" alt="Building Tech for Africa" />
 </p>
+
 
 ---
 
