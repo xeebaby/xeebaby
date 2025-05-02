@@ -49,7 +49,7 @@ To use technology and entrepreneurship as tools to create meaningful solutions t
 
 ---
 
-### ✨ Featured Projects
+### ✨ Future Projects
 
 #### 🌾 AgriLink – *Connecting Farmers to Markets*
 > AgriLink is a full-stack web application designed to support local egg and crop farmers in Ghana. The platform enables farmers to list produce, track orders, and connect directly with urban buyers—improving income and reducing waste. Built with React, Node.js, and Firebase.
